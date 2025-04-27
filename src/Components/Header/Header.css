@@ -1,0 +1,15 @@
+.header {
+  background-color: rgb(198, 216, 219);
+  padding: 12px;
+  color: #fff;
+}
+.nav-box {
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.nav-item {
+  text-decoration: none;
+  color: #000;
+}
